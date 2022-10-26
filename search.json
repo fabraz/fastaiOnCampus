@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "fastaiOnCampus",
+    "section": "",
+    "text": "This project aims to share technics and tricks realized during the fast.ai course version 2022, delivered at the University of Brasilia."
+  }
+]
