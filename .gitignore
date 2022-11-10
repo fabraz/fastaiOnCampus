@@ -149,3 +149,6 @@ checklink/cookies.txt
 
 # Quarto
 .quarto
+
+artigos/lesson-1/car_or_not/*
+artigos/lesson-2/mountains/*
