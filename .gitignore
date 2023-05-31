@@ -155,3 +155,4 @@ hair_types
 *.jpeg
 *.gif
 export
+nbs/data*
