@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "fastaiOnCampus"
-  site-url: "https://fabraz.github.io/fastaiOnCampus"
-  description: "fastaiOnCampus"
-  repo-branch: main
-  repo-url: "https://github.com/fabraz/fastaiOnCampus"
